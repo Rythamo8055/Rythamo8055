@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Vishnu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=180&section=header&text=Hi%20there!%20I'm%20Vishnu%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Flutter+%7C+Python+%7C+TypeScript;Building+GenAI+Applications;3rd+Year+CS+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Flutter+%7C+Python+%7C+TypeScript;Building+GenAI+Applications;3rd+Year+CS+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,12 +52,12 @@ const vishnu = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rythamo8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rythamo8055&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rythamo8055&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FF6B6B&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rythamo8055&theme=dracula&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF8C42&currStreakLabel=FFB6C1&sideLabels=FFB6C1" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rythamo8055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rythamo8055&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&text_color=FFFFFF" height="150"/>
 </div>
 
 <br/>
@@ -66,11 +66,11 @@ const vishnu = {
 
 <div align="center">
 
-[![agentic_ui](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=agentic_ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Rythamo8055/agentic_ui)
-[![vishnu-CNN](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=vishnu-CNN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Rythamo8055/vishnu-CNN)
+[![agentic_ui](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=agentic_ui&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FF6B6B)](https://github.com/Rythamo8055/agentic_ui)
+[![vishnu-CNN](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=vishnu-CNN&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FF6B6B)](https://github.com/Rythamo8055/vishnu-CNN)
 
-[![rythamo-charity](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=rythamo-charity&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Rythamo8055/rythamo-charity)
-[![rag](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=rag&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Rythamo8055/rag)
+[![rythamo-charity](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=rythamo-charity&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FF6B6B)](https://github.com/Rythamo8055/rythamo-charity)
+[![rag](https://github-readme-stats.vercel.app/api/pin/?username=Rythamo8055&repo=rag&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFB6C1&icon_color=FF6B6B)](https://github.com/Rythamo8055/rag)
 
 </div>
 
@@ -81,7 +81,7 @@ const vishnu = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-vardhan8055)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnuvardhanm.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishnuvardhanm.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhanthe8055@gmail.com)
 
 </div>
@@ -89,7 +89,7 @@ const vishnu = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rythamo8055&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rythamo8055&color=FF6B6B&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"/>
