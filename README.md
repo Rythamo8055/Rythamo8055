@@ -11,14 +11,21 @@
 <!-- Animated Skills Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFA07A&center=true&vCenter=true&random=false&width=600&lines=Flutter+%F0%9F%92%99+Developer;Python+%F0%9F%90%8D+Enthusiast;AI+%F0%9F%A4%96+Builder;Open+Source+%E2%9D%A4%EF%B8%8F+Contributor" alt="Skills" />
 
+<br/>
+
+<!-- 🐍 SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 <br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
@@ -41,12 +48,21 @@ const vishnu = {
 
 <br clear="right"/>
 
+<!-- Fun Facts Section -->
+<div align="center">
+  
+### 🎲 Fun Facts About Me
+  
+| 🎮 | 🎵 | ☕ | 🌙 |
+|:---:|:---:|:---:|:---:|
+| Gamer at heart | Lo-fi while coding | Coffee addict | Night owl coder |
+
+</div>
+
 <br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3ze55tfo6oe&rid=giphy.gif" width="30px"/> Tech Arsenal
 
@@ -74,22 +90,22 @@ const vishnu = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<br/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> GitHub Analytics
 
 <div align="center">
 
-<!-- Using a different stats provider for reliability -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Rythamo8055&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFA07A&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rythamo8055&show_icons=true&theme=radical&hide_border=true" />
-</picture>
+<!-- GitHub Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rythamo8055&theme=radical" width="90%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rythamo8055&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFA07A&currStreakLabel=FF6B9D" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Rythamo8055&theme=radical&hide_border=true" />
-</picture>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rythamo8055&theme=radical" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rythamo8055&theme=radical&utcOffset=5.5" height="180"/>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Rythamo8055&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FFA07A&currStreakLabel=FF6B9D" height="180"/>
 
 <br/><br/>
 
@@ -103,7 +119,16 @@ const vishnu = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rythamo8055&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+</div>
+
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Featured Creations
 
@@ -125,7 +150,24 @@ const vishnu = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🎯 Current Focus
+
+<div align="center">
+
+```text
+🔭 Currently working on    →  GenAI-powered Flutter applications
+🌱 Currently learning      →  LLM Agents, RAG Systems, System Design
+👯 Looking to collaborate  →  Open source AI/ML projects
+💬 Ask me about           →  Flutter, Python, AI/ML, Full Stack Dev
+⚡ Fun fact               →  I can debug code faster with lo-fi music! 🎧
+```
+
+</div>
+
 <br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/> Let's Connect!
 
@@ -145,11 +187,18 @@ const vishnu = {
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Rythamo8055&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Rythamo8055?style=for-the-badge&color=FFA07A&labelColor=0D1117" alt="Followers"/>
 
 <br/><br/>
 
 <!-- Animated Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<!-- Fun Joke -->
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Jokes Card" />
 
 </div>
 
@@ -157,3 +206,9 @@ const vishnu = {
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"/>
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
