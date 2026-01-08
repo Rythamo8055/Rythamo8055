@@ -119,17 +119,6 @@ const vishnu = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rythamo8055&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/> Featured Creations
 
 <div align="center">
@@ -192,11 +181,6 @@ const vishnu = {
 
 <br/><br/>
 
-<!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
 <!-- Fun Joke -->
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Jokes Card" />
 
@@ -209,6 +193,6 @@ const vishnu = {
 
 <div align="center">
   
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### ✨ *"Stay Hungry. Stay Foolish."* ✨
 
 </div>
